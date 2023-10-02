@@ -1,0 +1,5 @@
+Pour cloner un repository, il suffit de creer le fichier depuis le githup et copier le lien, dans le terminal il faut taper la commande git clone suivie du lien
+
+Ensuite pour push il faut 3 commandes, git add le fichier voulu, ensuite git commit -m, et enfin git push pour trouver le fichier dans notre github
+
+
