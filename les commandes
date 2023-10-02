@@ -2,4 +2,4 @@ Pour cloner un repository, il suffit de creer le fichier depuis le githup et cop
 
 Ensuite pour push il faut 3 commandes, git add le fichier voulu, ensuite git commit -m, et enfin git push pour trouver le fichier dans notre github
 
-
+Et enfin pour pull il suffit simplement de taper la commande git pull.
